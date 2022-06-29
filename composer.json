@@ -1,0 +1,9 @@
+{
+    "name": "pcegames/projeto_filme",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
